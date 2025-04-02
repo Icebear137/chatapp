@@ -25,6 +25,7 @@ Before you begin, ensure you have the following installed:
    cd backend
    cp .env.example .env
    npm install
+   node src/seeds/user.seed.js
    ```
 
 3. Set up the frontend:
